@@ -1,4 +1,4 @@
-# Belirli-saatlere-gore-ekrana-mesaj-yazdirma
+# Belirli saatlerde ekrana mesaj yazdırma - Printing messages on the screen at certain times
 
 Belirlenen saatlere göre ekrana mesaj yazdırma
 Örneğin; sabah saat 6 ile 10 arasında Günaydın
